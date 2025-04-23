@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="451c9fda-b5e2-4110-abde-343ec211df7a" name="Changes" comment="Initial commit. added welcome message via print and added question of where you grew up. definded city as a variable also">
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="451c9fda-b5e2-4110-abde-343ec211df7a" name="Changes" comment="Added Flask web app and HTML template for Band Name Generator&#10;&#10;- Converted the original Band Name Generator script into a Flask web app.&#10;- Created a home route that handles GET and POST requests for generating a band name.&#10;- Developed an HTML form for user input (city and pet name).&#10;- Added dynamic rendering to display the generated band name after form submission.&#10;- Styled the form and output using custom CSS for a clean and responsive layout.&#10;- Integrated basic comments for code explanation and readability.">
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +48,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.app.executor": "Run",
     "Python.task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mark2\PycharmProjects\PythonProject3\templates" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,11 +92,20 @@
       <option name="project" value="LOCAL" />
       <updated>1745437147589</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Flask web app and HTML template for Band Name Generator&#10;&#10;- Converted the original Band Name Generator script into a Flask web app.&#10;- Created a home route that handles GET and POST requests for generating a band name.&#10;- Developed an HTML form for user input (city and pet name).&#10;- Added dynamic rendering to display the generated band name after form submission.&#10;- Styled the form and output using custom CSS for a clean and responsive layout.&#10;- Integrated basic comments for code explanation and readability.">
+      <option name="closed" value="true" />
+      <created>1745438884144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745438884144</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit. added welcome message via print and added question of where you grew up. definded city as a variable also" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit. added welcome message via print and added question of where you grew up. definded city as a variable also" />
+    <MESSAGE value="Added Flask web app and HTML template for Band Name Generator&#10;&#10;- Converted the original Band Name Generator script into a Flask web app.&#10;- Created a home route that handles GET and POST requests for generating a band name.&#10;- Developed an HTML form for user input (city and pet name).&#10;- Added dynamic rendering to display the generated band name after form submission.&#10;- Styled the form and output using custom CSS for a clean and responsive layout.&#10;- Integrated basic comments for code explanation and readability." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Flask web app and HTML template for Band Name Generator&#10;&#10;- Converted the original Band Name Generator script into a Flask web app.&#10;- Created a home route that handles GET and POST requests for generating a band name.&#10;- Developed an HTML form for user input (city and pet name).&#10;- Added dynamic rendering to display the generated band name after form submission.&#10;- Styled the form and output using custom CSS for a clean and responsive layout.&#10;- Integrated basic comments for code explanation and readability." />
   </component>
 </project>
