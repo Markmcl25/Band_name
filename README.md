@@ -1,5 +1,5 @@
 # Band Name Generator
-![Band Name Generator](assets/images/band_name.jpg)
+![Band Name Generator](/assets/images/band_name.jpg)
 
 
 Prograp is a simple web-based application that generates a band name by combining the city you grew up in and your pet's name. This project uses **Flask** for the backend and **HTML/CSS** for the frontend to create a user-friendly, interactive band name generator.
