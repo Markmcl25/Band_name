@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="451c9fda-b5e2-4110-abde-343ec211df7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task.py" afterDir="false" />
+    <list default="true" id="451c9fda-b5e2-4110-abde-343ec211df7a" name="Changes" comment="Initial commit. added welcome message via print and added question of where you grew up. definded city as a variable also">
+      <change beforePath="$PROJECT_DIR$/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +55,19 @@
       <option name="presentableId" value="Default" />
       <updated>1745434187112</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit. added welcome message via print and added question of where you grew up. definded city as a variable also">
+      <option name="closed" value="true" />
+      <created>1745436491014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745436491014</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit. added welcome message via print and added question of where you grew up. definded city as a variable also" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit. added welcome message via print and added question of where you grew up. definded city as a variable also" />
   </component>
 </project>
